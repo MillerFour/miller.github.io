@@ -1,5 +1,5 @@
 site_name: Miller's F.I.R.E
-site_url: 网站链接
-site_author: 你的名字
+site_url: https://miller.github.io
+site_author: Miller
 theme:
   name: material #主题
