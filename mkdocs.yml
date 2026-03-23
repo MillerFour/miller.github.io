@@ -94,7 +94,7 @@ nav:
   - 留言板: 
       - Markdown: develop/markdown.md
   - 博客: 
-      - Markdown: develop/markdown.md
+      - 1. 在IDEA中通过ACP接入Moonshot: blog/IDE/IDEA_Moonshot.md
   - 友链: 
       - Markdown: develop/markdown.md
   - 关于: 
